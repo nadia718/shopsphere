@@ -1,4 +1,4 @@
-import products from "../data/Product";
+import products from "../data/product";
 import ProductCard from "./ProductGrid";
 import { useContext } from "react";
 import { CartContext } from "../context/CartContext";

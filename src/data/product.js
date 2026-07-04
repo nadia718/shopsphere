@@ -18,7 +18,7 @@ import SamsungGalaxyWatch from "../assets/images/Samsung Galaxy Watch.png";
 const products = [
   {
     id: 1,
-    title: "iPhone 16 Pro",
+    title: "Iphone 16 Pro",
     price: 1199,
     image: iPhone,
     category: "Smartphone",

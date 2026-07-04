@@ -12,12 +12,12 @@ function Categories() {
     const categories = [
         {
             id: 1,
-            name: "Smartphones",
+            name: "Smartphone",
             image: Iphoneimage,
         },
         {
             id: 2,
-            name: "Laptops",
+            name: "Laptop",
             image: Laptopimage,
         },
         {
