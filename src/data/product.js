@@ -3,12 +3,12 @@ import AppleWatch from "../assets/images/Apple Watch Ultra.png";
 import HP from "../assets/images/HP Spectre x360.png";
 import JBL from "../assets/images/JBL Charge 6.png";
 import Logitech from "../assets/images/Logitech MX Master 4.png";
-import MacBook from "../assets/images/MacBook Pro M5.png";
+import Laptopimage from "../assets/images/MacBook Pro M5.png";
 import MechanicalKeyboard from "../assets/images/Mechanical Keyboard.png";
 import NintendoSwitch from "../assets/images/Nintendo Switch 2.png";
 import PlayStation from "../assets/images/PlayStation 6.png";
 import iPad from "../assets/images/iPad Pro.png";
-import iPhone from "../assets/images/IPhone.png";
+import iPhone from "../assets/images/Iphone.png";
 import dellXPS from "../assets/images/Dell XPS 15.png";
 import SamsungGalaxy from "../assets/images/SamsungGalaxyS25.png";
 import SamsungGalaxyWatch from "../assets/images/Samsung Galaxy Watch.png";
@@ -44,7 +44,7 @@ const products = [
     id: 4,
     title: "MacBook Pro M5",
     price: 2499,
-    image: MacBook,
+    image: Laptopimage,
     category: "Laptop",
     brand: "Apple",
   },
