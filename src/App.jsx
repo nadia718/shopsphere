@@ -14,7 +14,7 @@ import SingleProduct from "./pages/SingleProduct";
 // import products from "./data/product";
 import "react-toastify/dist/ReactToastify.css";
 import { ToastContainer, toast } from "react-toastify";
-import Success from "./pages/Success";
+import Success from "./pages/success";
 // import CartProvider, { CartContext } from "./context/CartContext";
 
 import CartProvider from "./context/CartContext";
