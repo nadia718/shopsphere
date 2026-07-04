@@ -13,8 +13,6 @@ import dellXPS from "../assets/images/Dell XPS 15.png";
 import SamsungGalaxy from "../assets/images/SamsungGalaxyS25.png";
 import SamsungGalaxyWatch from "../assets/images/Samsung Galaxy Watch.png";
 
-
-
 const products = [
   {
     id: 1,
@@ -29,7 +27,7 @@ const products = [
     title: "AirPods Pro",
     price: 1299,
     image: Airpods,
-    category: "Smartphone",
+    category: "Accessories",
     brand: "Apple",
   },
   {
@@ -37,7 +35,7 @@ const products = [
     title: "Apple Watch Ultra",
     price: 999,
     image: AppleWatch,
-    category: "Smartphone",
+    category: "Smart Watch",
     brand: "Apple",
   },
   {
@@ -82,14 +80,6 @@ const products = [
   },
   {
     id: 9,
-    title: "Apple Watch Ultra",
-    price: 799,
-    image: AppleWatch,
-    category: "Smart Watch",
-    brand: "Apple",
-  },
-  {
-    id: 10,
     title: "Samsung Galaxy Watch",
     price: 499,
     image: SamsungGalaxyWatch,
@@ -97,30 +87,45 @@ const products = [
     brand: "Samsung",
   },
   {
-    id: 11,
-    title: "AirPods Pro",
-    price: 299,
-    image: Airpods,
-    category: "Accessories",
-    brand: "Apple",
-  },
-  {
-    id: 13,
+    id: 10,
     title: "JBL Charge 6",
     price: 199,
     image: JBL,
-    category: "Speaker",
+    category: "Accessories",
     brand: "JBL",
   },
   {
-    id: 14,
+    id: 11,
     title: "PlayStation 6",
     price: 699,
     image: PlayStation,
     category: "Gaming",
     brand: "Sony",
   },
-  
+  {
+    id: 12,
+    title: "Nintendo Switch 2",
+    price: 599,
+    image: NintendoSwitch,
+    category: "Gaming",
+    brand: "Nintendo",
+  },
+  {
+    id: 13,
+    title: "Mechanical Keyboard",
+    price: 149,
+    image: MechanicalKeyboard,
+    category: "Accessories",
+    brand: "Keychron",
+  },
+  {
+    id: 14,
+    title: "Logitech MX Master 4",
+    price: 129,
+    image: Logitech,
+    category: "Accessories",
+    brand: "Logitech",
+  },
 ];
 
 export default products;
