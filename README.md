@@ -1,16 +1,42 @@
-# React + Vite
+# ShopSphere – React Ecommerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ShopSphere is a modern ecommerce frontend project built with **React + Vite + Tailwind CSS**.  
+This project was created to practice and strengthen my React concepts by building a complete shopping website with real functionality and reusable components.
 
-Currently, two official plugins are available:
+## Features
+- Home page with custom sections
+- Product listing page
+- Category cards
+- Featured products section
+- Add to cart functionality
+- Cart page with quantity update
+- Checkout form with validation
+- Toast notifications
+- React Context API for cart state management
+- Reusable components structure
+- Responsive UI design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+- React
+- Vite
+- Tailwind CSS
+- React Router DOM
+- React Toastify
+- Context API
 
-## React Compiler
+## What I Practiced
+- Components and props
+- useState
+- useContext
+- Context API
+- React Router
+- Dynamic rendering with map()
+- Form handling
+- Conditional rendering
+- Project structure and reusable UI sections
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Project Goal
+This project helped me understand how to build a complete ecommerce frontend in React and connect multiple concepts together in one real project.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Author
+Nadia Nisar
