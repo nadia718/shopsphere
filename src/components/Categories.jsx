@@ -1,6 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import Iphoneimage from "../assets/images/Iphone.png"
-import Laptopimage from "../assets/images/Macbook Pro M5.png"
+import Laptopimage from "../assets/images/MacBook Pro M5.png"
 import Gamingimage from "../assets/images/PlayStation 6.png"
 import Accessoriesimage from "../assets/images/JBL Charge 6.png"
 
