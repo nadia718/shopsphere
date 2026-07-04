@@ -1,5 +1,5 @@
-import products from "../data/product";
-import ProductCard from "./product";
+import products from "../data/Product";
+import ProductCard from "./ProductGrid";
 import { useContext } from "react";
 import { CartContext } from "../context/CartContext";
 import { Link } from "react-router-dom";

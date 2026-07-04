@@ -1,8 +1,8 @@
 import { useParams } from "react-router-dom";
-import products from "../data/product";
+import products from "../data/Product";
 import Navbar from "../components/Navbar";
 import PageBanner from "../components/pageBanner";
-import ProductCard from "../components/product";
+import ProductCard from "../components/ProductGrid";
 import { useState, useContext } from "react";
 import { CartContext } from "../context/CartContext";
 import Footer from "../components/Footer";

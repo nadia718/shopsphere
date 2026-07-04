@@ -1,6 +1,6 @@
 import Navbar from "../components/Navbar";
-import products from "../data/product";
-import ProductCard from "../components/product";
+import products from "../data/Product";
+import ProductCard from "../components/ProductGrid";
 import Sidebar from "../components/sidebar";
 import FilterBar from "../components/filterbar";
 import { useState } from "react";

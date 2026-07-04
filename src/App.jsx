@@ -7,7 +7,7 @@ import About from "./pages/About";
 import Cart from "./pages/Cart";
 import Checkout from "./pages/Checkout";
 import Contact from "./pages/Contact";
-import Search from "./pages/serach";
+import Search from "./pages/Search";
 import SingleProduct from "./pages/SingleProduct";
 // import Navbar from "./components/Navbar";
 // import { useState, useEffect } from "react";
